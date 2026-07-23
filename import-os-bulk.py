@@ -5,7 +5,7 @@ import string
 categories = ["electronics", "clothing", "home", "sports", "books", "toys", "food", "automotive"]
 bulk_lines = []
 
-for i in range(12000):
+fo0r i in range(12000):
     # Each doc ~800-1000 bytes to reach ~10 MB total
     filler = ''.join(random.choices(string.ascii_lowercase + ' ', k=600))
     doc = {
