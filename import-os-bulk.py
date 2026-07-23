@@ -1,7 +1,7 @@
 import json
 import random
 import string
-
+#this is code
 categories = ["electronics", "clothing", "home", "sports", "books", "toys", "food", "automotive"]
 bulk_lines = []
 
